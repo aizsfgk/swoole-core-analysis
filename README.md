@@ -14,7 +14,7 @@
 
 **入群时请备注`swoole内核剖析`，如果已经是我的好友，想入群，直接和我说就好了，(^_^)谢谢~**
 
-![qq群](./img/00/qq_group.jpg)      ![wx群](./img/00/wx_group.jpg) 
+![qq群](./img/00/qq_group.jpg)     
 
 
 # swoole 内核剖析

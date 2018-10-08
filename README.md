@@ -41,7 +41,7 @@
 1. [共享内存](./02/01.share_memory.md)
 2. [固定内存](./02/02.fix_memory.md)
 3. [全局内存](./02/03.global_memory.md)
-4. 循环数组
+4. [消息队列](./02/04.message_queue.md)
 5. [缓冲](./02/05.buffer.md)
 
 ## 第三章 核心功能
